@@ -5,3 +5,5 @@
 **Quordle**: [Quordle](https://www.quordle.com/#/)
 
 **Sedecordle**: [Sedecordle](https://www.sedecordle.com/?mode=daily)
+
+**Metrodle**: [Metrodle](https://metrodle.com/)
