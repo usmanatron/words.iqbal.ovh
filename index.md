@@ -7,3 +7,5 @@
 **Sedecordle**: [Sedecordle](https://www.sedecordle.com/?mode=daily)
 
 **Metrodle**: [Metrodle](https://metrodle.com/)
+
+**Subwaydle**: [Subwaydle](https://london.subwaydle.com/)
